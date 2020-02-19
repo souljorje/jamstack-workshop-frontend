@@ -1,0 +1,16 @@
+{
+  "name": "jamstack-workshop-frontend-2",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "sass": "^1.25.0",
+    "sass-loader": "^7.1.0",
+    "vuetify": "^2.2.12",
+    "vuetify-loader": "^1.4.3"
+  }
+}

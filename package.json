@@ -10,7 +10,7 @@
     "gridsome": "^0.7.0",
     "sass": "^1.25.0",
     "sass-loader": "^7.1.0",
-    "vuetify": "^2.2.12",
+    "vuetify": "^2.6.10",
     "vuetify-loader": "^1.4.3"
   }
 }
